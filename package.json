@@ -8,7 +8,7 @@
         "codebox": ">=1.0.0-alpha"
     },
     "packageDependencies": {
-        "panels": "CodeboxIDE/package-panels"
+        "panels": "code-box/package-panels"
     },
     "dependencies": {
         "stringify": "3.1.0",
